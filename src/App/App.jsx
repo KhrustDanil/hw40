@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import { useRef } from 'react';
 import { useAppDispatch, useAppSelector, addNote, clearNotes } from '../store';
 import NoteList from '../NoteList/NoteList';
 import NoteItem from '../NoteItem/NodeItem';
