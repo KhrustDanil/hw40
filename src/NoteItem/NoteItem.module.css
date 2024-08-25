@@ -1,0 +1,10 @@
+.note {
+    display: flex;
+    height: 40px;
+    background-color: rgb(48, 139, 139);
+    border-radius: 20px;
+    margin: 4px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
